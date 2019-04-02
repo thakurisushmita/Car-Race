@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\Car Race\Car Race\bin\Debug\Car Race.exe.config
+C:\Users\dell\source\repos\Car Race\Car Race\bin\Debug\Car Race.exe
+C:\Users\dell\source\repos\Car Race\Car Race\bin\Debug\Car Race.pdb
+C:\Users\dell\source\repos\Car Race\Car Race\bin\Debug\Car Race.xml
+C:\Users\dell\source\repos\Car Race\Car Race\obj\Debug\Car Race.vbprojAssemblyReference.cache
+C:\Users\dell\source\repos\Car Race\Car Race\obj\Debug\Car_Race.Form1.resources
+C:\Users\dell\source\repos\Car Race\Car Race\obj\Debug\Car_Race.Resources.resources
+C:\Users\dell\source\repos\Car Race\Car Race\obj\Debug\Car Race.vbproj.GenerateResource.cache
+C:\Users\dell\source\repos\Car Race\Car Race\obj\Debug\Car Race.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Car Race\Car Race\obj\Debug\Car Race.exe
+C:\Users\dell\source\repos\Car Race\Car Race\obj\Debug\Car Race.xml
+C:\Users\dell\source\repos\Car Race\Car Race\obj\Debug\Car Race.pdb
